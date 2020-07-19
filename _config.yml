@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Soham Mullick"
   logo             : "/images/Logo.png"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Professional. Polymath. Learner at heart. Problem Solver"
+  avatar           : "/images/IMG_20151013_175729.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science Professional. Aspiring Polymath. Learner at heart. Problem Solver"
   location         : "Kolkata | Bangalore"
   email            : "sohamxi@gmail.com"
   uri              :
