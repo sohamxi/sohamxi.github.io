@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /about/
-  - title: "Data Wrangling Projects"
-    url: /data-wrangling/
+  - title: "Academic Projects"
+    url: /acad-projs/
+  - title: "Posts"
+    url: /posts/
+  - title: "Resume"
+    url: /resume/
+  - title: "Anything but ML/AI"
+    url: /other-things/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
