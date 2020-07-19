@@ -2,9 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/That's An old me Btw.gif"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+A business analyst in making, Data enthusiast, Have a knack for learning new things. apart from writing code and making cools visuals I love reading, travelling, listening to music, watching movies, cooking and making new friends. Always up for some coffee or Biryani :)
