@@ -3,7 +3,7 @@ title: "The journey named PGDBA"
 date: 2020-07-21
 tags: [course, career, analytics]
 header:
-  image: "/images/perceptron/pgdba_logo.jpeg"
+  image: "/images/perceptron/pgdba_logo.jpg"
 excerpt: "What, Why and How to be part of PGDBA"
 mathjax: "true"
 ---
@@ -17,6 +17,7 @@ Yeah, it might sound a bit odd, maybe even a far fetched dream for many but yes 
 **Pro Tip** - Learn the different campus lingo on the way while you are there. It would be great once you interact with industry stalwarts and can relate to their personal stories. 
 
 Here is a sample checklist for you to tick off when you get to the campus (Figure out which one is for which!) - 
+
 1. "Jetty" mein late night discussions
 2. Going for a football mathc through the "Subway"
 3. "Sup Dup" me subah ka nasta
@@ -29,6 +30,7 @@ Now don't start imagining private yatch rides and awesome late night parties. Th
 
 ### You will learn a lot, and hopefully earn a lot
 The single take home point, if you are really that objective kind of a person. Let's Put it in a list for the ease of your eye (Actually it helps me write that way :P)
+
 1.You will know why and how a company markets its prodct/service, what differentiates one vs other while they have similar offerings (Imagine Jio vs Airtel or Flipkart vs Amazon)
 2.You will be able to read company balance sheets/income statement , comment on their financial health and maybe devise an awesome alpha strategy to get you a bit rich trading in the market (Figure out your own market - equity/commodity/bond. How about crypto? anyone??)
 3.You will be able to create apps that detect faces or understand the sentiment of the passage ( No one's stopping you from generating your own chatbot or predicting live football match winner)
