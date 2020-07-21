@@ -32,9 +32,13 @@ Now don't start imagining private yatch rides and awesome late night parties. Th
 The single take home point, if you are really that objective kind of a person. Let's Put it in a list for the ease of your eye (Actually it helps me write that way :P)
 
 1.You will know why and how a company markets its prodct/service, what differentiates one vs other while they have similar offerings (Imagine Jio vs Airtel or Flipkart vs Amazon)
+
 2.You will be able to read company balance sheets/income statement , comment on their financial health and maybe devise an awesome alpha strategy to get you a bit rich trading in the market (Figure out your own market - equity/commodity/bond. How about crypto? anyone??)
+
 3.You will be able to create apps that detect faces or understand the sentiment of the passage(No one's stopping you from generating your own chatbot or predicting live football match winner)
+
 4.You will be able to differentiate between a lie and a damned lie (Both are done using statistics mostly)
+
 5.You will be ______ Fill in the blanks, Literally - cause mostly you will (have the opportunity to) learn a vast suite of concepts , models and subjects and get enoguh guidance to internalize them into most valuable skills the market demands
 
 And if all goes well (it does every year till now) you can expect to command a really handsome amount of a salary and continue your learning journey with some of the [best corporates and startups in India](https://www.iimcal.ac.in/sites/all/files/pdfs/2018-20_pgdba_placement_report.pdf).
