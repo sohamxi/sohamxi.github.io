@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+layout: timeline
 header:
   image: "/images/That's An old me Btw.gif"
 ---
