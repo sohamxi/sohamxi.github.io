@@ -2,13 +2,11 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Academic Projects"
-    url: /acad-projs/
-  - title: "Posts"
-    url: /posts/
+  - title: "Projects"
+    url: /projs/
   - title: "Resume"
     url: /resume/
-  - title: "Anything but ML/AI"
+  - title: "Avocations"
     url: /other-things/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
